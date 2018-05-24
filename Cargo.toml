@@ -1,0 +1,6 @@
+[package]
+name = "rust-chat-example"
+version = "0.1.0"
+authors = ["kelebra <kelebra20@gmail.com>"]
+
+[dependencies]
